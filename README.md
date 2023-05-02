@@ -8,7 +8,7 @@ Foco em desenvolvimento Front-end 🖥️
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=letdovale&show_icons=true&theme=midnight-purple"/>
-  <img height="180cm" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letdovale&hide_progress=true&theme=midnight-purple"/>
+  <img height="180cm" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letdovale&hide_progress=true&theme=midnight-purple"/>
  
 </div>
 
