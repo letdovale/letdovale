@@ -26,6 +26,8 @@ Foco em desenvolvimento Front-end 🖥️
   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+##
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="left" height="200" alt="avatar" src="https://user-images.githubusercontent.com/132018544/235552978-a0ab3c79-e9f7-4f1a-8bd2-6849e8ff6635.png"/>
